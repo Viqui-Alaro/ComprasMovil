@@ -12,4 +12,5 @@
     <string name="action_search">Buscar</string>
     <string name="action_help">Ayuda</string>
     <string name="action_about">Acerca de</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
 </resources>
