@@ -13,6 +13,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.it.mobile.hansa.hbm.adapters.MainAdapter;
@@ -56,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     private MainAdapter mMainAdapter;
     private ViewPager mViewPager;
+    private TextView prie;
 
 
     @RequiresApi(api = Build.VERSION_CODES.M)
@@ -63,6 +65,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // porq no ves viquiiiiiiii
 
 
         //Toolbar toolbar = (Toolbar) findViewById(R.id.appbarMain);
