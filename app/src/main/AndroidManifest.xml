@@ -41,6 +41,10 @@
             android:required="true" />
 
         <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".ReferenciaActivity"
+            android:label="@string/title_activity_referencia"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
