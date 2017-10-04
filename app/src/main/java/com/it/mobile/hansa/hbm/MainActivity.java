@@ -21,6 +21,8 @@ import com.it.mobile.hansa.hbm.adapters.MainAdapter;
 public class MainActivity extends AppCompatActivity {
 
     //region Permisos
+
+    // cambiosjjjjjjjjjjjjjjj
     private static final String[] INITIAL_PERMS={
             Manifest.permission.ACCESS_FINE_LOCATION,
             Manifest.permission.READ_CONTACTS
